@@ -1,0 +1,16 @@
+
+# Builds
+[Dd]ebug/
+[Rr]elease/
+x64/
+[Bb]in/
+[Oo]bj/
+
+
+# IDEs
+.idea/
+*.sln.DotSettings.user
+
+# NuGet
+packages/
+
